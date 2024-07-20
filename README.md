@@ -29,11 +29,11 @@ A React Native application for collecting personal details, including name, gend
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/personal-details-app.git
+    git clone https://github.com/belhyto/React-Native-Form-App.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd personal-details-app
+    cd React-Native-Form-App
     ```
 3. Install dependencies:
     ```bash
